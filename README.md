@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**NightmareEcilpse/NightmareEcilpse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+markdown
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Status](https://img.shields.io/badge/status-ACTIVE-red?style=flat-square&color=8b0000)
+![CVEs](https://img.shields.io/badge/0days_dropped-classified-black?style=flat-square)
+![Patch](https://img.shields.io/badge/vendors_notified-eventually-darkred?style=flat-square)
+![Timezone](https://img.shields.io/badge/timezone-irrelevant-333?style=flat-square)
+
+## `$ whoami`
+
+**NightmareEclipse.**
+
+Not a team.
+
+I find what vendors say doesn't exist.  
+I prove they're wrong.  
+I release.
